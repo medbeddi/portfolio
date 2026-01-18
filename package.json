@@ -1,0 +1,28 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio professionnel moderne et responsive avec CI/CD",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000 || php -S localhost:8000 || npx http-server -p 8000",
+    "serve": "python -m http.server 8000 || php -S localhost:8000 || npx http-server -p 8000",
+    "deploy:netlify": "netlify deploy --prod",
+    "deploy:vercel": "vercel --prod"
+  },
+  "keywords": [
+    "portfolio",
+    "cv",
+    "website",
+    "static-site",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "Votre Nom",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/votre-username/portfolio.git"
+  },
+  "homepage": "https://votre-username.github.io/portfolio/"
+}
