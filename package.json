@@ -18,11 +18,11 @@
     "css",
     "javascript"
   ],
-  "author": "Votre Nom",
+  "author": "MOHAMED CHEIKH AHMED",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/votre-username/portfolio.git"
+    "url": "https://github.com/medbeddi/portfolio.git"
   },
-  "homepage": "https://votre-username.github.io/portfolio/"
+  "homepage": "https://medbeddi.github.io/portfolio/"
 }
